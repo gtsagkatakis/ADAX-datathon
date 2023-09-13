@@ -8,4 +8,4 @@ For the specific purposes of this analysis, we require realistic SEDs and emissi
 
 ## Code
 
-The [code](https://github.com/gtsagkatakis/ADAX-datathon/blob/main/ADAX_datathon_classification.ipynb) is jupyter notebook provides an easy-to-follow example for analyzing the data as a classification problem
+The [ADAX_datathon_classification.ipynb](https://github.com/gtsagkatakis/ADAX-datathon/blob/main/ADAX_datathon_classification.ipynb) is jupyter notebook provides an easy-to-follow example for analyzing the data as a classification problem
