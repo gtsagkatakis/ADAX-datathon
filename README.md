@@ -11,4 +11,5 @@ For the specific purposes of this analysis, we require realistic SEDs and emissi
 The [ADAX_datathon_classification.ipynb](https://github.com/gtsagkatakis/ADAX-datathon/blob/main/ADAX_datathon_classification.ipynb) is jupyter notebook provides an easy-to-follow example for analyzing the data as a classification problem
 
 ## More details
-R. Stivaktakis, G. Tsagkatakis, B. Moares, F. Abdalla, J. L. Starck, and P. Tsakalides, "Convolutional Neural Networks for Spectroscopic Redshift Estimation on Euclid Data," IEEE Transactions on Big Data, vol. 6, no. 3, pp. 460-476, September 2020, doi: 10.1109/TBDATA.2019.2934475. [pdf]{https://users.ics.forth.gr/~greg/Docs/MAKE_Aug2020.pdf}
+R. Stivaktakis, G. Tsagkatakis, B. Moares, F. Abdalla, J. L. Starck, and P. Tsakalides, "Convolutional Neural Networks for Spectroscopic Redshift Estimation on Euclid Data," IEEE Transactions on Big Data, vol. 6, no. 3, pp. 460-476, September 2020, doi: 10.1109/TBDATA.2019.2934475. 
+[pdf](https://arxiv.org/abs/1809.09622)
